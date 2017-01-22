@@ -34,9 +34,9 @@ $ [sudo] gem install cocoapods
 $ pod setup
 	```
 
-2. Install `ADSlidePanels ` pod
+2. Install `ADSlidePanels` pod
 
-	Once Cocoa Pods has been installed, you can add `ADEmailAndPassword ` iOS Component to your project by adding a dependency entry to the Podfile in your project root directory.
+	Once Cocoa Pods has been installed, you can add `ADSlidePanels ` iOS Component to your project by adding a dependency entry to the Podfile in your project root directory.
 
 	```
 	target "YourAppName" do
@@ -60,7 +60,7 @@ $ pod install
 $ open YourAppName.xcworkspace
 	```
 
-5. Now you can import `ADEmailAndPassword` in your source files:
+5. Now you can import `ADSlidePanels` in your source files:
 
 	```swift
 import ADSlidePanels
@@ -180,4 +180,4 @@ You can set the different properties of ADSlidePanels like `backGroundColor`, `s
 
 ### Output:
 
- ![](ADSlidePanels.gif)
+![](ADSlidePanels.gif)
