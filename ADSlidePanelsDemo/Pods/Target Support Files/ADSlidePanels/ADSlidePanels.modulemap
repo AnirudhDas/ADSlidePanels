@@ -1,0 +1,6 @@
+framework module ADSlidePanels {
+  umbrella header "ADSlidePanels-umbrella.h"
+
+  export *
+  module * { export * }
+}

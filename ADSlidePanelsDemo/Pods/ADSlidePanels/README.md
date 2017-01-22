@@ -76,7 +76,7 @@ Embed your view controller in a navigation view controller from the storyboard. 
 
 Make sure you add a few necessary assets for the menus.
 
-![](Asset.png)
+![](Assets.png)
 
 **Step 3.**
 
@@ -84,7 +84,6 @@ Inside your `ViewController.swift`, write this:
 
 ```
 import UIKit
-import ADSlidePanels
 
 class ViewController: UIViewController, ADSlidePanelViewDelegate {
 
