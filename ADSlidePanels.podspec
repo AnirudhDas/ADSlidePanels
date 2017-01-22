@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ADSlidePanels"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "It shows a sliding menu, which is customizable."
 
   # This description is used to generate tags and improve search results.
